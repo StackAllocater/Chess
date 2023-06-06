@@ -1,4 +1,4 @@
-* Chess
+* Chess (project not finished)
 
 *** This is a beginner chess project completely written in C++ with [[https://www.raylib.com][raylib]].
 *** Dependencies
