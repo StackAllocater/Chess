@@ -9,7 +9,7 @@ You have to have raylib installed to get the project up and running:
 
 Try it out yourself:
 #+BEGIN_SRC shell
-https://github.com/StackAllocater/Chess
+git clone https://github.com/StackAllocater/Chess
 cd Chess && make
 (optional) chmod +x chess
 ./chess
