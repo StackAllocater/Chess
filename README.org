@@ -1,0 +1,17 @@
+* Chess
+
+*** This is a beginner chess project completely written in C++ with [[https://www.raylib.com][raylib]].
+*** Dependencies
+You have to have raylib installed to get the project up and running:
+
+1. Linux: [[https://github.com/raysan5/raylib/wiki/Working-on-GNU-Linux][raylib]]
+2. MacOS: [[https://github.com/raysan5/raylib/wiki/Working-on-macOS][raylib]]
+
+Try it out yourself:
+#+BEGIN_SRC shell
+https://github.com/StackAllocater/Chess
+cd Chess && make
+(optional) chmod +x chess
+./chess
+
+#+END_SRC
